@@ -3,47 +3,56 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Assignment 2</title>
-	<style>
-		body		{background-color: #ffe6f3;
-					font-family: "Century Schoolbook", sans-serif;
-					}
-		header		{text-align: center;
-					color: #800042;
-					}
-		h1			{font-family: masterOfBreak;
-					 font-size: 3em;
-					}
-		h2			{text-align: center;
-					 font-family: masterOfBreak;
-					 font-size: 2em;
-					}
-		nav 		{text-align: center;
-					background-color: #ffb3da;
-					}
-		p			{text-align: center;
-					}
-		@font-face	{font-family: masterOfBreak;
-					 src: url(fonts/masterOfBreak.ttf);
-					}
-	</style>
+
+	<!-- Vendor Styling, credit and thanks to font-awesome @ http://fontawesome.io/ -->
+	<link href="vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Include Custom Styles -->
+	<link rel="stylesheet" href="css/normal.css">
+
 </head>
 <body>
 	<header>
-		<h1>Ethan Morris</h1>
+		<div class = "name"> Ethan Morris </div>
+		<div class = "cs275"> CS275 </div>
 	</header>
 	<nav>
-		<a href = "index.html">Home</a>&nbsp;&nbsp;
-		<a href = "resume-index.html">Resume</a>&nbsp;&nbsp;
-		<a href = "extras.html">Pictures</a>
+		<a href = "resume-index.html">
+			<i class="fa fa-file-text" aria-hidden="true"></i>
+			Resume
+		</a>
+		<a href = "extras.html">
+
+			Pictures
+		</a>
+		<a href = "index.html">
+			<i class="fa fa-home" aria-hidden="true"></i>
+			Home
+		</a>
+	</nav>
+
 	<main>
 		<h2>About Me</h2>
-		<p>Hello and Welcome, my name is Ethan Morris. I am an undergraduate student at the University of Hartford, CT pursuing <br>a career in Audio Engineering. Music has been a passion of mine since before I can even remember and in addition <br>to pursuing a technical degree in the field, I also play electric guitar for fun. I love everything related to sound,<br> from live concerts to cool effects, sound is an integral part of my life. I love all genres of music<br> and try to be as open-minded as possible but we all have our go to bands to listen to.<br>Some of my favorites are The String Cheese Incident, Lotus, Railroad Earth, and Jimi Hendrix.<br><br>
-		<img src = "images/theFam.jpg" width = 450px; height = 600px;>
-		<img src = "images/yep.jpg" width = 450px; height = 600px;>
-		</p>
-		<p>Aside from music I have also been learing how to program using c++. More recently I have begun working on a 2D, <br>top-down style zombie shooter game using OpenGL. It still amazes me how complex these programs<br> are and since attempting to create this game I have gained a whole new level of respect for all types of developers.<br> Computers have been a secret passion of mine since we got our first desktop in the early 1990's. I can still remember how terribly<br> slow it was, Windows-95 + Dial up Internet = a very unhappy user, especially when the phone rings in the middle of my download!
 		<p>
-		<p>On another note, I have also been skateboarding since the 6th grade. Growing up my town didn't <br>offer many resources for kids who did not take a liking to sports teams, so naturally me and the group of friends that<br> skated with were constantly getting in trouble for skateboarding around town and behind shopping centers.<br> This sparked a revolution and with a lot of help from friends/family we all bounded together to get a skatepark built.<br> It took several fundraisers and a grant from the state but Wethersfield Skatepark is still one of the hottest spots for skaters in CT.<br><br>
+			Hello and Welcome, my name is Ethan Morris. I am an undergraduate student at the University of Hartford, CT
+			pursuing a career in Computer Engineering Technology. I have always enjoyed technology and computers in general
+			but recently decided to pursue a career in the field. This site is a collection of my works, interests, and hobbies.
+		<img src = "images/theFam.jpg" width=720 height = 960>
+		<img src = "images/yep.jpg" width = 540 height = 540>
+		</p>
+		<p>
+			Aside from music I have also been learing how to program using c++.
+			More recently I have begun working on a 2D, top-down style zombie shooter game using OpenGL.
+			It still amazes me how complex these programs are and since attempting to create this game
+			I have gained a whole new level of respect for all types of developers.
+		<p>
+		<p>
+			On another note, I have also been skateboarding since the 6th grade.
+			Growing up my town didn't offer many resources for kids who did not take a liking to sports teams,
+			so naturally me and the group of friends that I skated with were constantly getting in trouble for skateboarding
+			around town and behind shopping centers. This sparked a revolution and with a lot of help from friends/family
+			we all bounded together to get a skatepark built. It took several fundraisers and a grant from the state but
+			Wethersfield Skatepark is still one of the hottest spots for skaters in CT.
 		<img src = "images/wethSkatepark.jpg" width = 1000px; height = 750px;>
 		</p>
 	</main>
