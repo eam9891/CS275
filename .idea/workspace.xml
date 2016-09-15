@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1204421c-dc72-4ad9-95d7-c06105c5d6ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/resume-comp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/resume-education.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/resume-workexp.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Ethan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ethan.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design Plan/SiteMap.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/computer-experience.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programming-experience.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/computer-stuff.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resume/resume-comp.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/computer-stuff.html" afterPath="$PROJECT_DIR$/computer-stuff.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/normal.css" afterPath="$PROJECT_DIR$/css/normal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extras.html" afterPath="$PROJECT_DIR$/extras.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resume-index.html" afterPath="$PROJECT_DIR$/resume/resume-index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/extras.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resume/resume-education.html" afterPath="$PROJECT_DIR$/resume-education.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resume/resume-index.html" afterPath="$PROJECT_DIR$/resume-home.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resume/resume-workexp.html" afterPath="$PROJECT_DIR$/resume-workexp.html" />
     </list>
     <ignored path="Assignment 2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,8 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+            <state relative-caret-position="595">
+              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -44,15 +46,15 @@
       <file leaf-file-name="normal.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/normal.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume-education.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resume/resume-education.html">
+      <file leaf-file-name="resume-home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume-home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1020">
               <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
@@ -61,31 +63,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume-workexp.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resume/resume-workexp.html">
+      <file leaf-file-name="resume-workexp.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume-workexp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="884">
+              <caret line="52" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="computer-stuff.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/computer-stuff.html">
+      <file leaf-file-name="resume-education.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume-education.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="578">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume-index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resume/resume-index.html">
+      <file leaf-file-name="computer-experience.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/computer-experience.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="578">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="programming-experience.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming-experience.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,17 +132,22 @@
         <option value="$PROJECT_DIR$/ethanResume.html" />
         <option value="$PROJECT_DIR$/ethanHome.html" />
         <option value="$PROJECT_DIR$/extras.html" />
-        <option value="$PROJECT_DIR$/resume-index.html" />
-        <option value="$PROJECT_DIR$/computer-stuff.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/resume-education.html" />
-        <option value="$PROJECT_DIR$/resume-workexp.html" />
         <option value="$PROJECT_DIR$/vendors/resume-comp.html" />
         <option value="$PROJECT_DIR$/resume/resume-comp.html" />
-        <option value="$PROJECT_DIR$/css/normal.css" />
         <option value="$PROJECT_DIR$/resume/resume-index.html" />
         <option value="$PROJECT_DIR$/resume/resume-education.html" />
         <option value="$PROJECT_DIR$/resume/resume-workexp.html" />
+        <option value="$PROJECT_DIR$/resume-index.html" />
+        <option value="$PROJECT_DIR$/Computer Experience.html" />
+        <option value="$PROJECT_DIR$/computer-stuff.html" />
+        <option value="$PROJECT_DIR$/computer-experience.html" />
+        <option value="$PROJECT_DIR$/resume-education.html" />
+        <option value="$PROJECT_DIR$/resume-home.html" />
+        <option value="$PROJECT_DIR$/programming-experience.html" />
+        <option value="$PROJECT_DIR$/resume-workexp.html" />
+        <option value="$PROJECT_DIR$/css/normal.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -204,20 +231,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resume" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment2" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -235,8 +248,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Documents\School\CS 275 Internet Programming\Assignment2\resume" />
+      <recent name="D:\Documents\School\CS 275 Internet Programming\Assignment2\Design Plan" />
       <recent name="D:\Documents\School\CS 275 Internet Programming\Assignment2" />
+      <recent name="D:\Documents\School\CS 275 Internet Programming\Assignment2\resume" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Documents\School\CS 275 Internet Programming\Assignment2\vendors" />
@@ -304,12 +318,12 @@
       <workItem from="1473275692108" duration="10341000" />
       <workItem from="1473335676854" duration="1673000" />
       <workItem from="1473727861990" duration="272000" />
-      <workItem from="1473805211277" duration="8522000" />
+      <workItem from="1473805211277" duration="30904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23288000" />
+    <option name="totallyTimeSpent" value="45670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1914" y="-436" width="1092" height="1932" extended-state="6" />
@@ -366,7 +380,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/computer-stuff.html">
+    <entry file="file://$PROJECT_DIR$/computer-experience.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
@@ -374,7 +388,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extras.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
@@ -382,7 +396,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/resume-index.html">
+    <entry file="file://$PROJECT_DIR$/resume-home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -406,7 +420,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/computer-stuff.html">
+    <entry file="file://$PROJECT_DIR$/computer-experience.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
@@ -414,7 +428,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extras.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
@@ -422,7 +436,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/resume-index.html">
+    <entry file="file://$PROJECT_DIR$/resume-home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
@@ -446,7 +460,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/computer-stuff.html">
+    <entry file="file://$PROJECT_DIR$/computer-experience.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="31" />
@@ -454,7 +468,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extras.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -462,7 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/resume-index.html">
+    <entry file="file://$PROJECT_DIR$/resume-home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
@@ -478,7 +492,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/computer-stuff.html">
+    <entry file="file://$PROJECT_DIR$/computer-experience.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="31" />
@@ -486,7 +500,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extras.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="50" column="0" selection-start-line="5" selection-start-column="4" selection-end-line="50" selection-end-column="0" />
@@ -494,7 +508,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/resume-index.html">
+    <entry file="file://$PROJECT_DIR$/resume-home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
@@ -509,55 +523,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extras.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/computer-stuff.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/resume-comp.html">
+    <entry file="file://$PROJECT_DIR$/resume-comp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/computer-experience.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        <state relative-caret-position="1428">
+          <caret line="84" column="28" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/normal.css">
+    <entry file="file://$PROJECT_DIR$/programming-experience.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        <state relative-caret-position="816">
+          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/resume-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/resume-education.html">
+    <entry file="file://$PROJECT_DIR$/resume-home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
@@ -565,10 +555,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/resume-workexp.html">
+    <entry file="file://$PROJECT_DIR$/css/normal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="425">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume-education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-experience.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume-workexp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
